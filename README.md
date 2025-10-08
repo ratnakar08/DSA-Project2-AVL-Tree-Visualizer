@@ -70,10 +70,10 @@ After every insertion or deletion:
 
 | Case | Type of Imbalance | Fix (Rotation) | Diagram |
 |------|-------------------|----------------|----------|
-| **LL (Left-Left)** | New node inserted in left subtree of left child | Right Rotation | ![LL Rotation](assets/LL_rotation.png) |
-| **RR (Right-Right)** | New node inserted in right subtree of right child | Left Rotation | ![RR Rotation](assets/RR_rotation.png) |
-| **LR (Left-Right)** | New node inserted in right subtree of left child | Left Rotation + Right Rotation | ![LR Rotation](assets/LR_rotation.png) |
-| **RL (Right-Left)** | New node inserted in left subtree of right child | Right Rotation + Left Rotation | ![RL Rotation](assets/RL_rotation.png) |
+| **LL (Left-Left)** | New node inserted in left subtree of left child | Right Rotation | ![LL Rotation](assests/LL_rotation.png) |
+| **RR (Right-Right)** | New node inserted in right subtree of right child | Left Rotation | ![RR Rotation](assests/RR_rotation.png) |
+| **LR (Left-Right)** | New node inserted in right subtree of left child | Left Rotation + Right Rotation | ![LR Rotation](assests/LR_rotation.png) |
+| **RL (Right-Left)** | New node inserted in left subtree of right child | Right Rotation + Left Rotation | ![RL Rotation](assests/RL_rotation.png) |
 
 ---
 
