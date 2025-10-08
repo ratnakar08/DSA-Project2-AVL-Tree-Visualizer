@@ -2,7 +2,7 @@
 
 **Course:** Data Structures and Algorithms  
 **Project:** Self-Balancing Binary Search Tree (AVL Tree)  
-**Live Demo:** *(Optional – add your GitHub Pages link here)*  
+**Live Demo:** *([Visualiser Link)](https://ratnakar08.github.io/DSA-Project2-AVL-Tree-Visualizer/)*  
 **AVL Code Reference:** [View on Ideone](https://ideone.com/EMY6gV)
 
 ---
